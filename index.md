@@ -42,9 +42,7 @@ This Software Carpentry workshop is sponsored by UCF Office of Research and cond
 
 **When:** 10:00a-4:30p, 11 March 2021
 
-**Description:** The best way to learn how to program is to do something useful,
-so this introduction to Python is built around a common scientific task:
-**data analysis**.
+**Description:** This lesson teaches novice programmers to write modular code to perform data analysis using Python. The emphasis, however, is on teaching language-agnostic principles of programming such as automation with loops and encapsulation with functions, see Best Practices for Scientific Computing and Good enough practices in scientific computing to learn more. The example used in this lesson analyses a set of 12 files with simulated inflammation data collected from a trial for a new treatment for arthritis. Learners are shown how it is better to automate analysis using functions instead of repeating analysis steps manually.
 
 **Prerequisites:** This lesson guides you through the basics of file systems and the shell.  If you have stored files on a computer at all and recognize the word "file" and either "directory" or "folder" (two common words for the same thing), you're ready for this lesson. If you're already comfortable manipulating files and directories, searching for files with `grep` and `find`, and writing simple loops and scripts, you probably want to explore the next lesson: [shell-extras](https://carpentries-incubator.github.io/shell-extras/).
 
@@ -57,9 +55,7 @@ so this introduction to Python is built around a common scientific task:
 **Contact:** Please email <ResearchIT@ucf.edu> for more information.
 
 ### Arthritis Inflammation
-We are studying **inflammation in patients** who have been given a new treatment for arthritis, and
-need to analyze the first dozen data sets of their daily inflammation. The data sets are stored in
-[comma-separated values]({{ page.root }}/reference.html#comma-separated-values) (CSV) format:
+The best way to learn how to program is to do something useful, so this introduction to Python is built around a common scientific task: **data analysis**. We are studying **inflammation in patients** who have been given a new treatment for arthritis, and need to analyze the first dozen data sets of their daily inflammation. The data sets are stored in [comma-separated values]({{ page.root }}/reference.html#comma-separated-values) (CSV) format:
 
 - each row holds information for a single patient,
 - columns represent successive days.
