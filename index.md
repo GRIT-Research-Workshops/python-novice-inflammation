@@ -40,7 +40,7 @@ This Software Carpentry workshop is sponsored by UCF Office of Research and cond
 
 **Where:** This training will take place online. The instructors will provide you with the information you will need to connect to this meeting.
 
-**When:** 10:00a-4:30p, 11 March 2021
+**When:** 10:00am - 4:30pm ET, 11 March 2021
 
 **Description:** This lesson teaches novice programmers to write modular code to perform data analysis using Python. The emphasis, however, is on teaching language-agnostic principles of programming such as automation with loops and encapsulation with functions, see [Best Practices for Scientific Computing](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745) and [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) to learn more. The example used in this lesson analyses a set of 12 files with simulated inflammation data collected from a trial for a new treatment for arthritis. Learners are shown how it is better to automate analysis using functions instead of repeating analysis steps manually.
 
