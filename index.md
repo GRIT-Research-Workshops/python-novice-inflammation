@@ -46,7 +46,17 @@ This Software Carpentry workshop is sponsored by UCF Office of Research and cond
 so this introduction to Python is built around a common scientific task:
 **data analysis**.
 
-#### Arthritis Inflammation
+**Prerequisites:** This lesson guides you through the basics of file systems and the shell.  If you have stored files on a computer at all and recognize the word "file" and either "directory" or "folder" (two common words for the same thing), you're ready for this lesson. If you're already comfortable manipulating files and directories, searching for files with `grep` and `find`, and writing simple loops and scripts, you probably want to explore the next lesson: [shell-extras](https://carpentries-incubator.github.io/shell-extras/).
+
+**Requirements:** Participants must have access to a computer with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below).
+
+<!--Accessibility: We are dedicated to providing a positive and accessible learning environment for all. Please notify the instructors in advance of the workshop if you require any accommodations or if there is anything we can do to make this workshop more accessible to you.-->
+
+**Registration:** Please register here (Provide EventBrite Link). Event registration is free. There are a limited number of seats and available on a first come, first served basis.
+
+**Contact:** Please email <ResearchIT@ucf.edu> for more information.
+
+### Arthritis Inflammation
 We are studying **inflammation in patients** who have been given a new treatment for arthritis, and
 need to analyze the first dozen data sets of their daily inflammation. The data sets are stored in
 [comma-separated values]({{ page.root }}/reference.html#comma-separated-values) (CSV) format:
@@ -71,29 +81,3 @@ So, we want to:
 2. Plot the result to discuss and share with colleagues.
 
 To do all that, we'll have to learn a little bit about programming.
-
-**Prerequisites:** This lesson guides you through the basics of file systems and the shell.  If you have stored files on a computer at all and recognize the word "file" and either "directory" or "folder" (two common words for the same thing), you're ready for this lesson. If you're already comfortable manipulating files and directories, searching for files with `grep` and `find`, and writing simple loops and scripts, you probably want to explore the next lesson: [shell-extras](https://carpentries-incubator.github.io/shell-extras/).
-
-**Requirements:** Participants must have access to a computer with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below).
-
-<!--Accessibility: We are dedicated to providing a positive and accessible learning environment for all. Please notify the instructors in advance of the workshop if you require any accommodations or if there is anything we can do to make this workshop more accessible to you.-->
-
-**Registration:** Please register here (Provide EventBrite Link). Event registration is free. There are a limited number of seats and available on a first come, first served basis.
-
-**Contact:** Please email <ResearchIT@ucf.edu> for more information.
-
-<!---Roles: To learn more about the roles at the workshop (who will be doing what), refer to our Workshop FAQ.--->
-
-<!--
-> ## Prerequisites
->
-> This lesson guides you through the basics of file systems and the
-> shell.  If you have stored files on a computer at all and recognize
-> the word "file" and either "directory" or "folder" (two common words
-> for the same thing), you're ready for this lesson.
->
-> If you're already comfortable manipulating files and directories,
-> searching for files with `grep` and `find`, and writing simple loops
-> and scripts, you probably want to explore the next lesson: [shell-extras](https://carpentries-incubator.github.io/shell-extras/).
-{: .prereq}
--->
